@@ -44,11 +44,3 @@ curl -X POST --user "apikey:{apikey}" --header "Content-Type: text/plain" --data
 
 Language Translator allows you to translate documents, such as markup files that use XML or HTML, or Microsoft Office and Open Office files, while retaining the original formatting. For a tutorial, check out Translating documents.
 
-## Next steps
-
-Learn how to customize Language Translator to work for your use case
-View the API & SDK reference
-Explore sample applications
-View language support information:
-Supported languages for translation
-Identifiable languages
